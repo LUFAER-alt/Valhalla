@@ -11,15 +11,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-04-14 20:25:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-14 20:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-14 20:12:56 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-14 20:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-14 20:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-14 20:24:47 +0000"
     },
     "done": true
   },
@@ -40,9 +64,16 @@
       "minecraft:sunflower_plains": "2025-04-14 20:13:00 +0000",
       "minecraft:beach": "2025-04-14 20:09:40 +0000",
       "minecraft:river": "2025-04-14 20:12:16 +0000",
-      "minecraft:flower_forest": "2025-04-14 20:09:26 +0000"
+      "minecraft:flower_forest": "2025-04-14 20:09:26 +0000",
+      "minecraft:meadow": "2025-04-14 20:19:38 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-14 20:24:41 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2975
 }
