@@ -141,3 +141,8 @@
 [14Apr2025 21:42:44.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT has made the advancement [Stone Age]
 [14Apr2025 21:43:02.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT fell out of the world
 [14Apr2025 21:57:31.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX fell out of the world
+[14Apr2025 22:04:28.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LUFAER-ALT lost connection: Disconnected
+[14Apr2025 22:04:28.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT left the game
+[14Apr2025 22:05:37.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 fell out of the world
+[14Apr2025 22:06:18.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XDEATHRAX lost connection: Disconnected
+[14Apr2025 22:06:18.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX left the game
