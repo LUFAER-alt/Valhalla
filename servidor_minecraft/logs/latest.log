@@ -106,3 +106,33 @@
 [14Apr2025 21:19:58.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpierre1[/127.68.126.108:39149] logged in with entity id 1800 at (-15.262842907798001, 69.0, -384.55727084655973)
 [14Apr2025 21:19:58.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 joined the game
 [14Apr2025 21:20:44.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Stone Age]
+[14Apr2025 21:21:13.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Getting an Upgrade]
+[14Apr2025 21:23:00.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Teleported LUFAER-ALT to elpierre1]
+[14Apr2025 21:23:23.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Teleported XDEATHRAX to LUFAER-ALT]
+[14Apr2025 21:23:36.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX fell from a high place
+[14Apr2025 21:24:10.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=63, z=-284}
+[14Apr2025 21:24:10.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-37, y=63, z=-286}
+[14Apr2025 21:24:10.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-38, y=63, z=-288}
+[14Apr2025 21:24:10.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-37, y=63, z=-288}
+[14Apr2025 21:24:11.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=63, z=-287}
+[14Apr2025 21:24:11.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=63, z=-286}
+[14Apr2025 21:24:11.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-34, y=63, z=-284}
+[14Apr2025 21:24:11.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-32, y=63, z=-287}
+[14Apr2025 21:24:11.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-33, y=63, z=-287}
+[14Apr2025 21:24:12.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-34, y=63, z=-286}
+[14Apr2025 21:24:12.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-34, y=63, z=-285}
+[14Apr2025 21:24:12.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=63, z=-283}
+[14Apr2025 21:24:12.893] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-38, y=64, z=-282}
+[14Apr2025 21:24:13.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-38, y=66, z=-281}
+[14Apr2025 21:24:13.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-39, y=64, z=-280}
+[14Apr2025 21:24:13.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-38, y=64, z=-282}
+[14Apr2025 21:24:14.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-38, y=64, z=-282}
+[14Apr2025 21:24:14.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=63, z=-284}
+[14Apr2025 21:24:17.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=63, z=-289} BlockPos{x=-27, y=62, z=-287}
+[14Apr2025 21:24:31.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=63, z=-289} BlockPos{x=-45, y=63, z=-288}
+[14Apr2025 21:24:45.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Teleported XDEATHRAX to elpierre1]
+[14Apr2025 21:26:18.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown selector type '@L'
+[14Apr2025 21:26:18.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give @LUFAER-ALT minecraft:player_head{SkullOwner:{Id:[I;-1138536483,1567119517,-1366726451,434843445],Properties:{textures:[{Value:"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMThlODg0OWNjOTBhZjIwN2NiZDRkZGYyY2Y5N2U4M2MxY2U1ZDk1MTJjYzNhMDY5MjA0MzhlZGZiMzVhZjU4ZSJ9fX0="}]}},display:{Lore:["{\"text\":\"https://namemc.com/skin/b99d2b313c2a9658\"}"]}<--[HERE]
+[14Apr2025 21:26:49.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Set XDEATHRAX's game mode to Creative Mode]
+[14Apr2025 21:27:07.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Set elpierre1's game mode to Creative Mode]
+[14Apr2025 21:28:04.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has completed the challenge [Cover Me in Debris]
