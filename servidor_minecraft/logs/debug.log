@@ -1045,3 +1045,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Apr2025 21:26:52.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Apr2025 21:27:07.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Set elpierre1's game mode to Creative Mode]
 [14Apr2025 21:28:04.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has completed the challenge [Cover Me in Debris]
+[14Apr2025 21:31:52.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 21:31:52.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 21:34:43.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Enchanter]
+[14Apr2025 21:36:52.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 21:36:52.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 21:38:40.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Monster Hunter]
