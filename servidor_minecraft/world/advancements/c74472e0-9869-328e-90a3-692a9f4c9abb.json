@@ -1,0 +1,40 @@
+{
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-15 00:45:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-04-15 00:45:21 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-15 00:45:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-15 00:45:21 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-15 00:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-04-15 00:45:48 +0000",
+      "minecraft:river": "2025-04-15 00:45:21 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

@@ -1,112 +1,58 @@
-[14Apr2025 23:10:16.755] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[14Apr2025 23:10:16.759] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
-[14Apr2025 23:10:16.868] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Valhalla/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[14Apr2025 23:10:17.183] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Valhalla/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[14Apr2025 23:10:17.185] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Valhalla/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[14Apr2025 23:10:17.187] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Valhalla/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[14Apr2025 23:10:17.188] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Valhalla/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[14Apr2025 23:10:17.285] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[14Apr2025 23:10:18.973] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14Apr2025 23:10:19.011] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[14Apr2025 23:10:26.012] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[14Apr2025 23:10:26.013] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[14Apr2025 23:10:26.177] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[14Apr2025 23:10:29.045] [main/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:recipe_type / iceandfire:dragonforge]' to registry
-[14Apr2025 23:10:29.049] [main/ERROR] [net.minecraft.Util/]: Adding duplicate value 'iceandfire:dragonforge' to registry
-[14Apr2025 23:10:29.284] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[14Apr2025 23:10:29.285] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[14Apr2025 23:10:29.949] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Apr2025 23:10:30.391] [main/INFO] [journeymap/]: Initializing Packet Registries
-[14Apr2025 23:10:30.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[14Apr2025 23:10:30.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[14Apr2025 23:10:30.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
-[14Apr2025 23:10:33.160] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14Apr2025 23:10:34.603] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Valhalla/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2357!/assets/.mcassetsroot' uses unexpected schema
-[14Apr2025 23:10:34.604] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Valhalla/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2357!/data/.mcassetsroot' uses unexpected schema
-[14Apr2025 23:10:37.753] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14Apr2025 23:10:37.755] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14Apr2025 23:10:37.762] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14Apr2025 23:10:37.767] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14Apr2025 23:10:37.768] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14Apr2025 23:10:41.292] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Valhalla/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
-[14Apr2025 23:10:41.345] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[14Apr2025 23:10:42.773] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1433 advancements
-[14Apr2025 23:10:43.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[14Apr2025 23:10:43.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Apr2025 23:10:43.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Apr2025 23:10:43.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Apr2025 23:10:44.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Apr2025 23:10:44.183] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14Apr2025 23:10:44.382] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Apr2025 23:10:44.383] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Apr2025 23:10:44.383] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Apr2025 23:10:44.384] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Apr2025 23:10:44.470] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Apr2025 23:10:44.472] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Apr2025 23:10:44.473] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Apr2025 23:10:44.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[14Apr2025 23:10:44.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Apr2025 23:10:46.579] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:46.606] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:46.619] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:46.631] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:46.930] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:47.393] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:47.881] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:48.379] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:48.881] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:49.398] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:49.880] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 23:10:50.380] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[14Apr2025 23:10:50.881] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[14Apr2025 23:10:51.379] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[14Apr2025 23:10:51.879] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[14Apr2025 23:10:52.379] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
-[14Apr2025 23:10:52.883] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
-[14Apr2025 23:10:53.378] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[14Apr2025 23:10:54.498] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9620 ms
-[14Apr2025 23:10:54.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.089s)! For help, type "help"
-[14Apr2025 23:10:54.564] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14Apr2025 23:10:54.653] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[14Apr2025 23:10:54.654] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
-[14Apr2025 23:11:06.748] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7bbed1c4
-[14Apr2025 23:11:06.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LUFAER-ALT[/127.234.14.110:44931] logged in with entity id 365 at (-136.8911889731201, 68.5, -40.06477380105272)
-[14Apr2025 23:11:06.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT joined the game
-[14Apr2025 23:13:12.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Set the time to 1000]
-[14Apr2025 23:15:08.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT has made the advancement [Hot Stuff]
-[14Apr2025 23:18:09.516] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37a62706
-[14Apr2025 23:18:09.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpierre1[/127.68.126.108:52491] logged in with entity id 1240 at (-64.48008819175162, 71.0, -90.94355290150942)
-[14Apr2025 23:18:09.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 joined the game
-[14Apr2025 23:19:36.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Teleported elpierre1 to LUFAER-ALT]
-[14Apr2025 23:20:30.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT has made the advancement [Alex's Mobs]
-[14Apr2025 23:21:53.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Stone Age]
-[14Apr2025 23:22:07.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Set own game mode to Survival Mode]
-[14Apr2025 23:23:02.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 fell out of the world
-[14Apr2025 23:23:02.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Killed elpierre1]
-[14Apr2025 23:24:53.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Getting an Upgrade]
-[14Apr2025 23:25:14.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT has made the advancement [Stone Age]
-[14Apr2025 23:25:33.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpierre1 lost connection: Disconnected
-[14Apr2025 23:25:33.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 left the game
-[14Apr2025 23:25:35.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT has made the advancement [Monster Hunter]
-[14Apr2025 23:26:05.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT has made the advancement [Getting an Upgrade]
-[14Apr2025 23:27:05.720] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d370a04
-[14Apr2025 23:27:05.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpierre1[/127.68.126.108:43513] logged in with entity id 3292 at (4.032857485538537, 62.0, -115.25313814421678)
-[14Apr2025 23:27:05.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 joined the game
-[14Apr2025 23:30:11.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 burned to death
-[14Apr2025 23:34:13.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 was shot by Skeleton
-[14Apr2025 23:36:05.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 was shot by Skeleton
-[14Apr2025 23:36:49.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LUFAER-ALT lost connection: Disconnected
-[14Apr2025 23:36:49.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT left the game
-[14Apr2025 23:36:54.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[14Apr2025 23:36:54.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[14Apr2025 23:36:54.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[14Apr2025 23:36:54.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpierre1 lost connection: Server closed
-[14Apr2025 23:36:54.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 left the game
-[14Apr2025 23:36:54.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[14Apr2025 23:36:55.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14Apr2025 23:36:56.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14Apr2025 23:36:56.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14Apr2025 23:36:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14Apr2025 23:36:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14Apr2025 23:36:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14Apr2025 23:36:56.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Apr2025 00:10:10.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT was slain by Spider
+[15Apr2025 00:10:10.920] [Server thread/INFO] [tombstone/]: The player LUFAER-ALT has successfully been saved
+[15Apr2025 00:28:44.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [LUFAER-ALT: Set own game mode to Creative Mode]
+[15Apr2025 00:36:33.172] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6fa76161
+[15Apr2025 00:36:33.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpierre1[/127.68.126.108:44883] logged in with entity id 3410 at (47.1881376437494, 28.922077042968205, -53.22631995319005)
+[15Apr2025 00:36:33.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 joined the game
+[15Apr2025 00:36:33.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has reached the goal [Easter]
+[15Apr2025 00:41:27.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Diamonds!]
+[15Apr2025 00:44:02.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [A Strange Grave Dust]
+[15Apr2025 00:44:05.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Knowledge of Death]
+[15Apr2025 00:44:05.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Easter Egg Searcher]
+[15Apr2025 00:45:21.771] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@13740b5e
+[15Apr2025 00:45:21.776] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cato_MC[/127.110.1.185:60145] logged in with entity id 5032 at (-140.5, 68.0, -38.5)
+[15Apr2025 00:45:21.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cato_MC joined the game
+[15Apr2025 00:45:21.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cato_MC has reached the goal [Easter]
+[15Apr2025 00:45:21.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cato_MC has made the advancement [Ice and Fire]
+[15Apr2025 00:45:34.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Ambush]
+[15Apr2025 00:46:56.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cato_MC lost connection: Disconnected
+[15Apr2025 00:46:56.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cato_MC left the game
+[15Apr2025 00:49:11.370] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39ef4fc8
+[15Apr2025 00:49:11.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cato_MC[/127.110.1.185:40397] logged in with entity id 5628 at (-147.05088002388229, 69.0, -45.93021769168261)
+[15Apr2025 00:49:11.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cato_MC joined the game
+[15Apr2025 00:49:22.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cato_MC lost connection: Disconnected
+[15Apr2025 00:49:22.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cato_MC left the game
+[15Apr2025 00:49:29.970] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@63aeb768
+[15Apr2025 00:49:29.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XDEATHRAX[/127.172.18.48:60055] logged in with entity id 5687 at (-130.5, 68.0, -40.5)
+[15Apr2025 00:49:29.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX joined the game
+[15Apr2025 00:49:30.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has reached the goal [Easter]
+[15Apr2025 00:49:30.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Ice and Fire]
+[15Apr2025 00:50:07.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Alex's Mobs]
+[15Apr2025 00:50:15.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-136, y=67, z=-37}
+[15Apr2025 00:51:29.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Acquire Hardware]
+[15Apr2025 00:52:26.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX was shot by Skeleton
+[15Apr2025 00:52:26.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Your First Grave]
+[15Apr2025 00:52:26.676] [Server thread/INFO] [tombstone/]: The player XDEATHRAX has successfully been saved
+[15Apr2025 00:52:35.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has reached the goal [Here They Come]
+[15Apr2025 00:53:10.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Isn't It Iron Pick]
+[15Apr2025 00:54:03.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elpierre1 has made the advancement [Suit Up]
+[15Apr2025 00:54:22.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Stone Age]
+[15Apr2025 00:54:46.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Monster Hunter]
+[15Apr2025 00:55:19.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Getting an Upgrade]
+[15Apr2025 00:57:07.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Knowledge of Death]
+[15Apr2025 00:57:07.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [A Strange Grave Dust]
+[15Apr2025 00:57:26.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Magic Writing]
+[15Apr2025 00:57:28.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XDEATHRAX has made the advancement [Acquire Hardware]
+[15Apr2025 00:59:39.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[15Apr2025 00:59:39.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Apr2025 00:59:39.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Apr2025 00:59:39.882] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LUFAER-ALT lost connection: Server closed
+[15Apr2025 00:59:39.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LUFAER-ALT left the game
+[15Apr2025 00:59:39.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Apr2025 00:59:41.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Apr2025 00:59:42.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Apr2025 00:59:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Apr2025 00:59:42.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Apr2025 00:59:42.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Apr2025 00:59:42.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Apr2025 00:59:42.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
